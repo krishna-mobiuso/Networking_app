@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Networking_app</string>
+    <string name="action_settings">Settings</string>
+    <string name="download">Downloading file. Please wait...</string>
+    <string name="get">Get Data</string>
+    <string name="play">Play Video</string>
+    <string name="show">Show Content</string>
+    <string name="message">Download Completed</string>
+    <string name="internet">Internet Network is not Available</string>
+
+    <string-array name="navigation_drawer_items_array">
+    <item>Get Data</item>
+    <item>Play Video</item>
+    <item>Show Content</item>
+</string-array>
+
+    </resources>
